@@ -53,7 +53,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application developed using
 ---
 
 ## 📸 Screenshots
-(Add your project screenshots here)
+<img width="1249" height="546" alt="image" src="https://github.com/user-attachments/assets/1373e59e-5c32-4165-a032-3929ef1ce41d" />
+
 
 ---
 
